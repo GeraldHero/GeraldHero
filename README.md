@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @GeraldHero
 - 👀 I’m interested in programming, playing mobile games, wathching series, anime and movies. 
-- 🌱 I’m currently learning programming using javascript framework, nodejs and mongoDB.
+- 🌱 I’m currently learning programming using javascript framework, nodejs, react and mongoDB.
 - 💞️ I’m looking to collaborate on building a filipino website that they can use in their daily lives.
 - 📫 How to reach me: 
-        gmail: herohug2021@gmail.com
+        gmail: geraldhug92@gmail.com
  - ✨I'll be glad to meet you!✨
 
 <!---
