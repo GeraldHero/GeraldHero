@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programming using javascript framework, nodejs, react and mongoDB.
 - 💞️ I’m looking to collaborate on building a filipino website that they can use in their daily lives.
 - 📫 How to reach me: 
-        gmail: geraldhug92@gmail.com
+       my gmail is geraldhug92@gmail.com
  - ✨I'll be glad to meet you!✨
 
 <!---
